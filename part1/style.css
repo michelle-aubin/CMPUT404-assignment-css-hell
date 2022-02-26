@@ -1,0 +1,47 @@
+p {
+    font-size: 16px;
+    font-family: Georgia, Times, serif;
+    margin: 2% 10%;
+    text-indent: 2.5em;
+    line-height: 1.5em;
+}
+
+p:nth-child(2):first-letter {
+    font-size: 36px;
+    font: bold;
+}
+
+
+h1 {
+    font-family: Georgia, Times, serif;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2, h3, h4 {
+    font-family: Georgia, Times, serif;
+    text-align: center;
+}
+
+a {
+    color: rgb(58, 53, 7)
+}
+
+a:hover {
+    color: black;
+}
+ 
+body {
+    background-color: #e5cb91;
+}
+
+div.chapter {page-break-before: always; margin-top: 4em;}
+
+img {
+    width: 35em;
+    display: block;
+    margin: auto;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    border: 6px double rgb(58, 53, 7)
+}

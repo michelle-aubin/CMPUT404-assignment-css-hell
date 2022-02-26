@@ -1,3 +1,8 @@
+Part 1: Modifications to HTML files
+===================================
+- Got rid of the style tags and any style attributes in all three files
+- Linked to my css file in all three files
+
 Assignment: CSS Hell
 ====================
 
