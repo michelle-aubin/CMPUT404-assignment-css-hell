@@ -76,6 +76,7 @@ p {
 li {
     font-size: 1.2em;
     color: greenyellow;
+    text-align: right;
 }
 
 .pic {
