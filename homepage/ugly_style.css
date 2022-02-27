@@ -1,0 +1,90 @@
+html,body { 
+    height: 100%;
+    width: auto;
+    font-family:  "Comic Sans MS", cursive, sans-serif;
+    background-image: url('./stars.jfif');
+    color: white;
+    padding-left: 2%;
+    padding-right: 2%;
+ }
+
+.flex-container {
+    display: flex;
+}
+
+#header {
+    color: rgb(46, 241, 255);
+    font: 2em bold;
+    font-family:  "Comic Sans MS", cursive, sans-serif;
+    text-align: center;
+    padding: 1em;
+}
+
+#header-text {
+    margin-left: auto;
+}
+
+#portrait {
+    margin: auto;
+
+    width: 8em;
+    height: 8em;
+}
+
+#navbar {
+    background-color: red;
+    height: 3em;
+    margin-left: 5em;
+    margin-right: 5em;
+}
+
+#paragraphs {
+    padding-right: 2em;
+    text-align: center;
+}
+
+a {
+    color: rgb(255, 255, 255);
+    font: 1.5em bold;
+    font-family:  "Comic Sans MS", cursive, sans-serif;
+    margin: auto;
+    text-decoration: none;
+    
+}
+
+a:hover {
+    color: rgb(0, 143, 226);
+}
+
+h2 {
+    font-size: 1.7em;
+    margin-top: 5%;
+    color: yellow;
+}
+
+p {
+    font-size: 1.2em;
+    color: pink;
+}
+
+#sidebar {
+    height: 100%;
+    margin: 4em 2em 4em 0em;
+    padding: 2em 1em 2em 1em;
+}
+
+li {
+    font-size: 1.2em;
+    color: greenyellow;
+}
+
+.pic {
+    width: 13em;
+    height: 13em;
+    padding: 1em;
+    padding-top: 2em;
+}
+
+.exp-item {
+    color: purple;
+}
